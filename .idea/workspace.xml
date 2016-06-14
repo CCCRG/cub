@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ff6a412-4053-43b6-b490-ad6b41d17b7b" name="Default" comment="">
+    <list default="true" id="6ff6a412-4053-43b6-b490-ad6b41d17b7b" name="Default" comment="test">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mysite.iws" />
@@ -37,7 +37,7 @@
       <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite/static/base.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
+            <state relative-caret-position="560">
               <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
               <folding />
             </state>
@@ -47,32 +47,32 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            <state relative-caret-position="225">
+              <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
               <folding>
-                <marker date="1465921661851" expanded="true" signature="516:1034" ph="select s1,c1... eyes" />
-                <marker date="1465921661851" expanded="true" signature="1008:1033" ph="SELECT MAX(n... eyes" />
-                <marker date="1465921661851" expanded="true" signature="1310:1352" ph="update contr... " />
-                <marker date="1465921661851" expanded="true" signature="1390:1425" ph="select * fro... control" />
-                <marker date="1465921661851" expanded="true" signature="1701:1743" ph="update contr... " />
-                <marker date="1465921661851" expanded="true" signature="1781:1813" ph="select x1, y... stena" />
-                <marker date="1465921661851" expanded="true" signature="2100:2158" ph="SELECT * FRO... test" />
-                <marker date="1465921661851" expanded="true" signature="2132:2157" ph="SELECT MAX(n... test" />
-                <marker date="1465921661851" expanded="true" signature="2450:2482" ph="select x1, y... stena" />
-                <marker date="1465921661851" expanded="true" signature="2608:2651" ph="update numbe... " />
-                <marker date="1465921661851" expanded="true" signature="2707:2752" ph="update numbe... " />
-                <marker date="1465921661851" expanded="true" signature="2808:2848" ph="update rotor... " />
-                <marker date="1465921661851" expanded="true" signature="2897:2932" ph="select * fro... control" />
-                <marker date="1465921661851" expanded="true" signature="4584:4700" ph="update test " />
-                <marker date="1465921661851" expanded="true" signature="4934:4994" ph="select * fro... control" />
-                <marker date="1465921661851" expanded="true" signature="4967:4993" ph="SELECT MAX(n... eyes1" />
-                <marker date="1465921661851" expanded="true" signature="5278:5315" ph="select * fro... numbers" />
-                <marker date="1465921661851" expanded="true" signature="5617:5656" ph="select * fro... numbers_y" />
-                <marker date="1465921661851" expanded="true" signature="5958:5992" ph="select * fro... rotors" />
-                <marker date="1465921661851" expanded="true" signature="7810:7842" ph="select x1, y... stena" />
-                <marker date="1465921661851" expanded="true" signature="7888:7946" ph="SELECT * FRO... test" />
-                <marker date="1465921661851" expanded="true" signature="7920:7945" ph="SELECT MAX(n... test" />
-                <marker date="1465921661851" expanded="true" signature="7989:8006" ph="insert into eyes... " />
+                <marker date="1465929382043" expanded="true" signature="516:1034" ph="select s1,c1... eyes" />
+                <marker date="1465929382043" expanded="true" signature="1008:1033" ph="SELECT MAX(n... eyes" />
+                <marker date="1465929382043" expanded="true" signature="1310:1352" ph="update contr... " />
+                <marker date="1465929382043" expanded="true" signature="1390:1425" ph="select * fro... control" />
+                <marker date="1465929382043" expanded="true" signature="1701:1743" ph="update contr... " />
+                <marker date="1465929382043" expanded="true" signature="1781:1813" ph="select x1, y... stena" />
+                <marker date="1465929382043" expanded="true" signature="2100:2158" ph="SELECT * FRO... test" />
+                <marker date="1465929382043" expanded="true" signature="2132:2157" ph="SELECT MAX(n... test" />
+                <marker date="1465929382043" expanded="true" signature="2450:2482" ph="select x1, y... stena" />
+                <marker date="1465929382043" expanded="true" signature="2608:2651" ph="update numbe... " />
+                <marker date="1465929382043" expanded="true" signature="2707:2752" ph="update numbe... " />
+                <marker date="1465929382043" expanded="true" signature="2808:2848" ph="update rotor... " />
+                <marker date="1465929382043" expanded="true" signature="2897:2932" ph="select * fro... control" />
+                <marker date="1465929382043" expanded="true" signature="4584:4700" ph="update test " />
+                <marker date="1465929382043" expanded="true" signature="4934:4994" ph="select * fro... control" />
+                <marker date="1465929382043" expanded="true" signature="4967:4993" ph="SELECT MAX(n... eyes1" />
+                <marker date="1465929382043" expanded="true" signature="5278:5315" ph="select * fro... numbers" />
+                <marker date="1465929382043" expanded="true" signature="5617:5656" ph="select * fro... numbers_y" />
+                <marker date="1465929382043" expanded="true" signature="5958:5992" ph="select * fro... rotors" />
+                <marker date="1465929382043" expanded="true" signature="7810:7842" ph="select x1, y... stena" />
+                <marker date="1465929382043" expanded="true" signature="7888:7946" ph="SELECT * FRO... test" />
+                <marker date="1465929382043" expanded="true" signature="7920:7945" ph="SELECT MAX(n... test" />
+                <marker date="1465929382043" expanded="true" signature="7989:8006" ph="insert into eyes... " />
               </folding>
             </state>
           </provider>
@@ -137,8 +137,8 @@
       <file leaf-file-name="cub.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/cub.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3060">
-              <caret line="204" column="65" selection-start-line="204" selection-start-column="65" selection-end-line="204" selection-end-column="65" />
+            <state relative-caret-position="855">
+              <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -164,8 +164,8 @@
         <option value="$PROJECT_DIR$/mysite/static/base.css" />
         <option value="$PROJECT_DIR$/eyes.py" />
         <option value="$PROJECT_DIR$/templates/cub.html" />
-        <option value="$PROJECT_DIR$/views.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/views.py" />
         <option value="$PROJECT_DIR$/test1.py" />
       </list>
     </option>
@@ -220,20 +220,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="mysite" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mysite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mysite" />
@@ -631,7 +617,14 @@
       <option name="project" value="LOCAL" />
       <updated>1465928794730</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1465929274395</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1465929274395</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -651,6 +644,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26147044" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -684,6 +678,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -705,29 +700,29 @@
         <state relative-caret-position="450">
           <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
           <folding>
-            <marker date="1465921661851" expanded="true" signature="516:1034" ph="select s1,c1... eyes" />
-            <marker date="1465921661851" expanded="true" signature="1008:1033" ph="SELECT MAX(n... eyes" />
-            <marker date="1465921661851" expanded="true" signature="1310:1352" ph="update contr... " />
-            <marker date="1465921661851" expanded="true" signature="1390:1425" ph="select * fro... control" />
-            <marker date="1465921661851" expanded="true" signature="1701:1743" ph="update contr... " />
-            <marker date="1465921661851" expanded="true" signature="1781:1813" ph="select x1, y... stena" />
-            <marker date="1465921661851" expanded="true" signature="2100:2158" ph="SELECT * FRO... test" />
-            <marker date="1465921661851" expanded="true" signature="2132:2157" ph="SELECT MAX(n... test" />
-            <marker date="1465921661851" expanded="true" signature="2450:2482" ph="select x1, y... stena" />
-            <marker date="1465921661851" expanded="true" signature="2608:2651" ph="update numbe... " />
-            <marker date="1465921661851" expanded="true" signature="2707:2752" ph="update numbe... " />
-            <marker date="1465921661851" expanded="true" signature="2808:2848" ph="update rotor... " />
-            <marker date="1465921661851" expanded="true" signature="2897:2932" ph="select * fro... control" />
-            <marker date="1465921661851" expanded="true" signature="4584:4700" ph="update test " />
-            <marker date="1465921661851" expanded="true" signature="4934:4994" ph="select * fro... control" />
-            <marker date="1465921661851" expanded="true" signature="4967:4993" ph="SELECT MAX(n... eyes1" />
-            <marker date="1465921661851" expanded="true" signature="5278:5315" ph="select * fro... numbers" />
-            <marker date="1465921661851" expanded="true" signature="5617:5656" ph="select * fro... numbers_y" />
-            <marker date="1465921661851" expanded="true" signature="5958:5992" ph="select * fro... rotors" />
-            <marker date="1465921661851" expanded="true" signature="7810:7842" ph="select x1, y... stena" />
-            <marker date="1465921661851" expanded="true" signature="7888:7946" ph="SELECT * FRO... test" />
-            <marker date="1465921661851" expanded="true" signature="7920:7945" ph="SELECT MAX(n... test" />
-            <marker date="1465921661851" expanded="true" signature="7989:8006" ph="insert into eyes... " />
+            <marker date="1465929382043" expanded="true" signature="516:1034" ph="select s1,c1... eyes" />
+            <marker date="1465929382043" expanded="true" signature="1008:1033" ph="SELECT MAX(n... eyes" />
+            <marker date="1465929382043" expanded="true" signature="1310:1352" ph="update contr... " />
+            <marker date="1465929382043" expanded="true" signature="1390:1425" ph="select * fro... control" />
+            <marker date="1465929382043" expanded="true" signature="1701:1743" ph="update contr... " />
+            <marker date="1465929382043" expanded="true" signature="1781:1813" ph="select x1, y... stena" />
+            <marker date="1465929382043" expanded="true" signature="2100:2158" ph="SELECT * FRO... test" />
+            <marker date="1465929382043" expanded="true" signature="2132:2157" ph="SELECT MAX(n... test" />
+            <marker date="1465929382043" expanded="true" signature="2450:2482" ph="select x1, y... stena" />
+            <marker date="1465929382043" expanded="true" signature="2608:2651" ph="update numbe... " />
+            <marker date="1465929382043" expanded="true" signature="2707:2752" ph="update numbe... " />
+            <marker date="1465929382043" expanded="true" signature="2808:2848" ph="update rotor... " />
+            <marker date="1465929382043" expanded="true" signature="2897:2932" ph="select * fro... control" />
+            <marker date="1465929382043" expanded="true" signature="4584:4700" ph="update test " />
+            <marker date="1465929382043" expanded="true" signature="4934:4994" ph="select * fro... control" />
+            <marker date="1465929382043" expanded="true" signature="4967:4993" ph="SELECT MAX(n... eyes1" />
+            <marker date="1465929382043" expanded="true" signature="5278:5315" ph="select * fro... numbers" />
+            <marker date="1465929382043" expanded="true" signature="5617:5656" ph="select * fro... numbers_y" />
+            <marker date="1465929382043" expanded="true" signature="5958:5992" ph="select * fro... rotors" />
+            <marker date="1465929382043" expanded="true" signature="7810:7842" ph="select x1, y... stena" />
+            <marker date="1465929382043" expanded="true" signature="7888:7946" ph="SELECT * FRO... test" />
+            <marker date="1465929382043" expanded="true" signature="7920:7945" ph="SELECT MAX(n... test" />
+            <marker date="1465929382043" expanded="true" signature="7989:8006" ph="insert into eyes... " />
           </folding>
         </state>
       </provider>
@@ -799,29 +794,29 @@
         <state relative-caret-position="450">
           <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
           <folding>
-            <marker date="1465921661851" expanded="true" signature="516:1034" ph="select s1,c1... eyes" />
-            <marker date="1465921661851" expanded="true" signature="1008:1033" ph="SELECT MAX(n... eyes" />
-            <marker date="1465921661851" expanded="true" signature="1310:1352" ph="update contr... " />
-            <marker date="1465921661851" expanded="true" signature="1390:1425" ph="select * fro... control" />
-            <marker date="1465921661851" expanded="true" signature="1701:1743" ph="update contr... " />
-            <marker date="1465921661851" expanded="true" signature="1781:1813" ph="select x1, y... stena" />
-            <marker date="1465921661851" expanded="true" signature="2100:2158" ph="SELECT * FRO... test" />
-            <marker date="1465921661851" expanded="true" signature="2132:2157" ph="SELECT MAX(n... test" />
-            <marker date="1465921661851" expanded="true" signature="2450:2482" ph="select x1, y... stena" />
-            <marker date="1465921661851" expanded="true" signature="2608:2651" ph="update numbe... " />
-            <marker date="1465921661851" expanded="true" signature="2707:2752" ph="update numbe... " />
-            <marker date="1465921661851" expanded="true" signature="2808:2848" ph="update rotor... " />
-            <marker date="1465921661851" expanded="true" signature="2897:2932" ph="select * fro... control" />
-            <marker date="1465921661851" expanded="true" signature="4584:4700" ph="update test " />
-            <marker date="1465921661851" expanded="true" signature="4934:4994" ph="select * fro... control" />
-            <marker date="1465921661851" expanded="true" signature="4967:4993" ph="SELECT MAX(n... eyes1" />
-            <marker date="1465921661851" expanded="true" signature="5278:5315" ph="select * fro... numbers" />
-            <marker date="1465921661851" expanded="true" signature="5617:5656" ph="select * fro... numbers_y" />
-            <marker date="1465921661851" expanded="true" signature="5958:5992" ph="select * fro... rotors" />
-            <marker date="1465921661851" expanded="true" signature="7810:7842" ph="select x1, y... stena" />
-            <marker date="1465921661851" expanded="true" signature="7888:7946" ph="SELECT * FRO... test" />
-            <marker date="1465921661851" expanded="true" signature="7920:7945" ph="SELECT MAX(n... test" />
-            <marker date="1465921661851" expanded="true" signature="7989:8006" ph="insert into eyes... " />
+            <marker date="1465929382043" expanded="true" signature="516:1034" ph="select s1,c1... eyes" />
+            <marker date="1465929382043" expanded="true" signature="1008:1033" ph="SELECT MAX(n... eyes" />
+            <marker date="1465929382043" expanded="true" signature="1310:1352" ph="update contr... " />
+            <marker date="1465929382043" expanded="true" signature="1390:1425" ph="select * fro... control" />
+            <marker date="1465929382043" expanded="true" signature="1701:1743" ph="update contr... " />
+            <marker date="1465929382043" expanded="true" signature="1781:1813" ph="select x1, y... stena" />
+            <marker date="1465929382043" expanded="true" signature="2100:2158" ph="SELECT * FRO... test" />
+            <marker date="1465929382043" expanded="true" signature="2132:2157" ph="SELECT MAX(n... test" />
+            <marker date="1465929382043" expanded="true" signature="2450:2482" ph="select x1, y... stena" />
+            <marker date="1465929382043" expanded="true" signature="2608:2651" ph="update numbe... " />
+            <marker date="1465929382043" expanded="true" signature="2707:2752" ph="update numbe... " />
+            <marker date="1465929382043" expanded="true" signature="2808:2848" ph="update rotor... " />
+            <marker date="1465929382043" expanded="true" signature="2897:2932" ph="select * fro... control" />
+            <marker date="1465929382043" expanded="true" signature="4584:4700" ph="update test " />
+            <marker date="1465929382043" expanded="true" signature="4934:4994" ph="select * fro... control" />
+            <marker date="1465929382043" expanded="true" signature="4967:4993" ph="SELECT MAX(n... eyes1" />
+            <marker date="1465929382043" expanded="true" signature="5278:5315" ph="select * fro... numbers" />
+            <marker date="1465929382043" expanded="true" signature="5617:5656" ph="select * fro... numbers_y" />
+            <marker date="1465929382043" expanded="true" signature="5958:5992" ph="select * fro... rotors" />
+            <marker date="1465929382043" expanded="true" signature="7810:7842" ph="select x1, y... stena" />
+            <marker date="1465929382043" expanded="true" signature="7888:7946" ph="SELECT * FRO... test" />
+            <marker date="1465929382043" expanded="true" signature="7920:7945" ph="SELECT MAX(n... test" />
+            <marker date="1465929382043" expanded="true" signature="7989:8006" ph="insert into eyes... " />
           </folding>
         </state>
       </provider>
@@ -901,29 +896,29 @@
         <state relative-caret-position="225">
           <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
           <folding>
-            <marker date="1465921661851" expanded="true" signature="516:1034" ph="select s1,c1... eyes" />
-            <marker date="1465921661851" expanded="true" signature="1008:1033" ph="SELECT MAX(n... eyes" />
-            <marker date="1465921661851" expanded="true" signature="1310:1352" ph="update contr... " />
-            <marker date="1465921661851" expanded="true" signature="1390:1425" ph="select * fro... control" />
-            <marker date="1465921661851" expanded="true" signature="1701:1743" ph="update contr... " />
-            <marker date="1465921661851" expanded="true" signature="1781:1813" ph="select x1, y... stena" />
-            <marker date="1465921661851" expanded="true" signature="2100:2158" ph="SELECT * FRO... test" />
-            <marker date="1465921661851" expanded="true" signature="2132:2157" ph="SELECT MAX(n... test" />
-            <marker date="1465921661851" expanded="true" signature="2450:2482" ph="select x1, y... stena" />
-            <marker date="1465921661851" expanded="true" signature="2608:2651" ph="update numbe... " />
-            <marker date="1465921661851" expanded="true" signature="2707:2752" ph="update numbe... " />
-            <marker date="1465921661851" expanded="true" signature="2808:2848" ph="update rotor... " />
-            <marker date="1465921661851" expanded="true" signature="2897:2932" ph="select * fro... control" />
-            <marker date="1465921661851" expanded="true" signature="4584:4700" ph="update test " />
-            <marker date="1465921661851" expanded="true" signature="4934:4994" ph="select * fro... control" />
-            <marker date="1465921661851" expanded="true" signature="4967:4993" ph="SELECT MAX(n... eyes1" />
-            <marker date="1465921661851" expanded="true" signature="5278:5315" ph="select * fro... numbers" />
-            <marker date="1465921661851" expanded="true" signature="5617:5656" ph="select * fro... numbers_y" />
-            <marker date="1465921661851" expanded="true" signature="5958:5992" ph="select * fro... rotors" />
-            <marker date="1465921661851" expanded="true" signature="7810:7842" ph="select x1, y... stena" />
-            <marker date="1465921661851" expanded="true" signature="7888:7946" ph="SELECT * FRO... test" />
-            <marker date="1465921661851" expanded="true" signature="7920:7945" ph="SELECT MAX(n... test" />
-            <marker date="1465921661851" expanded="true" signature="7989:8006" ph="insert into eyes... " />
+            <marker date="1465929382043" expanded="true" signature="516:1034" ph="select s1,c1... eyes" />
+            <marker date="1465929382043" expanded="true" signature="1008:1033" ph="SELECT MAX(n... eyes" />
+            <marker date="1465929382043" expanded="true" signature="1310:1352" ph="update contr... " />
+            <marker date="1465929382043" expanded="true" signature="1390:1425" ph="select * fro... control" />
+            <marker date="1465929382043" expanded="true" signature="1701:1743" ph="update contr... " />
+            <marker date="1465929382043" expanded="true" signature="1781:1813" ph="select x1, y... stena" />
+            <marker date="1465929382043" expanded="true" signature="2100:2158" ph="SELECT * FRO... test" />
+            <marker date="1465929382043" expanded="true" signature="2132:2157" ph="SELECT MAX(n... test" />
+            <marker date="1465929382043" expanded="true" signature="2450:2482" ph="select x1, y... stena" />
+            <marker date="1465929382043" expanded="true" signature="2608:2651" ph="update numbe... " />
+            <marker date="1465929382043" expanded="true" signature="2707:2752" ph="update numbe... " />
+            <marker date="1465929382043" expanded="true" signature="2808:2848" ph="update rotor... " />
+            <marker date="1465929382043" expanded="true" signature="2897:2932" ph="select * fro... control" />
+            <marker date="1465929382043" expanded="true" signature="4584:4700" ph="update test " />
+            <marker date="1465929382043" expanded="true" signature="4934:4994" ph="select * fro... control" />
+            <marker date="1465929382043" expanded="true" signature="4967:4993" ph="SELECT MAX(n... eyes1" />
+            <marker date="1465929382043" expanded="true" signature="5278:5315" ph="select * fro... numbers" />
+            <marker date="1465929382043" expanded="true" signature="5617:5656" ph="select * fro... numbers_y" />
+            <marker date="1465929382043" expanded="true" signature="5958:5992" ph="select * fro... rotors" />
+            <marker date="1465929382043" expanded="true" signature="7810:7842" ph="select x1, y... stena" />
+            <marker date="1465929382043" expanded="true" signature="7888:7946" ph="SELECT * FRO... test" />
+            <marker date="1465929382043" expanded="true" signature="7920:7945" ph="SELECT MAX(n... test" />
+            <marker date="1465929382043" expanded="true" signature="7989:8006" ph="insert into eyes... " />
           </folding>
         </state>
       </provider>
@@ -1035,14 +1030,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/static/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mysite/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -1050,14 +1037,6 @@
           <folding>
             <element signature="e#695#727#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/cub.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3060">
-          <caret line="204" column="65" selection-start-line="204" selection-start-column="65" selection-end-line="204" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1097,43 +1076,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
+    <entry file="file://$PROJECT_DIR$/mysite/static/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="560">
+          <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="225">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
           <folding>
-            <marker date="1465921661851" expanded="true" signature="516:1034" ph="select s1,c1... eyes" />
-            <marker date="1465921661851" expanded="true" signature="1008:1033" ph="SELECT MAX(n... eyes" />
-            <marker date="1465921661851" expanded="true" signature="1310:1352" ph="update contr... " />
-            <marker date="1465921661851" expanded="true" signature="1390:1425" ph="select * fro... control" />
-            <marker date="1465921661851" expanded="true" signature="1701:1743" ph="update contr... " />
-            <marker date="1465921661851" expanded="true" signature="1781:1813" ph="select x1, y... stena" />
-            <marker date="1465921661851" expanded="true" signature="2100:2158" ph="SELECT * FRO... test" />
-            <marker date="1465921661851" expanded="true" signature="2132:2157" ph="SELECT MAX(n... test" />
-            <marker date="1465921661851" expanded="true" signature="2450:2482" ph="select x1, y... stena" />
-            <marker date="1465921661851" expanded="true" signature="2608:2651" ph="update numbe... " />
-            <marker date="1465921661851" expanded="true" signature="2707:2752" ph="update numbe... " />
-            <marker date="1465921661851" expanded="true" signature="2808:2848" ph="update rotor... " />
-            <marker date="1465921661851" expanded="true" signature="2897:2932" ph="select * fro... control" />
-            <marker date="1465921661851" expanded="true" signature="4584:4700" ph="update test " />
-            <marker date="1465921661851" expanded="true" signature="4934:4994" ph="select * fro... control" />
-            <marker date="1465921661851" expanded="true" signature="4967:4993" ph="SELECT MAX(n... eyes1" />
-            <marker date="1465921661851" expanded="true" signature="5278:5315" ph="select * fro... numbers" />
-            <marker date="1465921661851" expanded="true" signature="5617:5656" ph="select * fro... numbers_y" />
-            <marker date="1465921661851" expanded="true" signature="5958:5992" ph="select * fro... rotors" />
-            <marker date="1465921661851" expanded="true" signature="7810:7842" ph="select x1, y... stena" />
-            <marker date="1465921661851" expanded="true" signature="7888:7946" ph="SELECT * FRO... test" />
-            <marker date="1465921661851" expanded="true" signature="7920:7945" ph="SELECT MAX(n... test" />
-            <marker date="1465921661851" expanded="true" signature="7989:8006" ph="insert into eyes... " />
+            <marker date="1465929382043" expanded="true" signature="516:1034" ph="select s1,c1... eyes" />
+            <marker date="1465929382043" expanded="true" signature="1008:1033" ph="SELECT MAX(n... eyes" />
+            <marker date="1465929382043" expanded="true" signature="1310:1352" ph="update contr... " />
+            <marker date="1465929382043" expanded="true" signature="1390:1425" ph="select * fro... control" />
+            <marker date="1465929382043" expanded="true" signature="1701:1743" ph="update contr... " />
+            <marker date="1465929382043" expanded="true" signature="1781:1813" ph="select x1, y... stena" />
+            <marker date="1465929382043" expanded="true" signature="2100:2158" ph="SELECT * FRO... test" />
+            <marker date="1465929382043" expanded="true" signature="2132:2157" ph="SELECT MAX(n... test" />
+            <marker date="1465929382043" expanded="true" signature="2450:2482" ph="select x1, y... stena" />
+            <marker date="1465929382043" expanded="true" signature="2608:2651" ph="update numbe... " />
+            <marker date="1465929382043" expanded="true" signature="2707:2752" ph="update numbe... " />
+            <marker date="1465929382043" expanded="true" signature="2808:2848" ph="update rotor... " />
+            <marker date="1465929382043" expanded="true" signature="2897:2932" ph="select * fro... control" />
+            <marker date="1465929382043" expanded="true" signature="4584:4700" ph="update test " />
+            <marker date="1465929382043" expanded="true" signature="4934:4994" ph="select * fro... control" />
+            <marker date="1465929382043" expanded="true" signature="4967:4993" ph="SELECT MAX(n... eyes1" />
+            <marker date="1465929382043" expanded="true" signature="5278:5315" ph="select * fro... numbers" />
+            <marker date="1465929382043" expanded="true" signature="5617:5656" ph="select * fro... numbers_y" />
+            <marker date="1465929382043" expanded="true" signature="5958:5992" ph="select * fro... rotors" />
+            <marker date="1465929382043" expanded="true" signature="7810:7842" ph="select x1, y... stena" />
+            <marker date="1465929382043" expanded="true" signature="7888:7946" ph="SELECT * FRO... test" />
+            <marker date="1465929382043" expanded="true" signature="7920:7945" ph="SELECT MAX(n... test" />
+            <marker date="1465929382043" expanded="true" signature="7989:8006" ph="insert into eyes... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/cub.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
