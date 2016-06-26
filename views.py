@@ -124,7 +124,8 @@ def insert(request):
             dx = 0
             dy = 0
             dr = 0
-        cur.execute("update test set x1 = %e ,y1 = %e ,x2 = %e ,y2 = %e ,x3 = %e ,y3 = %e ,x4 = %e ,y4 = %e ,acrs = %e where num = 539284" % (
+        cur.execute(
+            "update test set x1 = %e ,y1 = %e ,x2 = %e ,y2 = %e ,x3 = %e ,y3 = %e ,x4 = %e ,y4 = %e ,acrs = %e where num = 539444" % (
         axy1[0][0], axy1[0][1], axy1[1][0], axy1[1][1], axy1[2][0], axy1[2][1], axy1[3][0], axy1[3][1], r))
         conn.commit()
         x = x + dx
