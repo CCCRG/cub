@@ -77,4 +77,4 @@ def distance_e(x1, y1, x2, y2, x3, y3, x4, y4):
     return xy
 
 
-print eyes_s(400, 3, -45)
+print eyes_s(404, 3, -45)
