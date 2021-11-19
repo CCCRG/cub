@@ -10,7 +10,7 @@ import random
 import math
 
 def eyes_s(x,y,r):
-    conn = pymysql.connect(host='localhost', user='root', passwd='fdlZm6vC', db='db_cub')
+    conn = pymysql.connect(host='localhost', user='root', passwd='', db='db_cub')
     cur = conn.cursor()
     cur.execute("select x1, y1, x2, y2 from stena")
     stxy = cur.fetchall()
