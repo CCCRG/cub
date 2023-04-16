@@ -3,13 +3,13 @@
 <head>
     <meta charset="utf-8">
     <title>КУБ</title>
-    {% load static from staticfiles %}
+    {% load static %}
     <link rel="stylesheet" type="text/css" href="{% static 'base.css' %}">
-    {% load static from staticfiles %}
+    {% load static %}
     <script src="{% static 'jquery.js' %}"></script>
-    {% load static from staticfiles %}
+    {% load static %}
     <script src="{% static 'jquery.min.js' %}"></script>
-    {% load static from staticfiles %}
+    {% load static %}
     <script src="{% static 'jQueryRotate.js' %}"></script>
 </head>
     <body>
@@ -148,6 +148,7 @@
 
     /*********  основной цикл  ************/
     setInterval(function () {
+        var s11;
         if (str == 1) {
             $.ajax({
                 url: '/json/',
@@ -182,15 +183,16 @@
                     pp32 = data[0].y3;
                     pp41 = data[0].x4;
                     pp42 = data[0].y4;
+                    s11 = data[0].plot[0];
                 }
             });
-            $.ajax({
+            /*$.ajax({
                 url: '/json_plot/',
                 dataType: 'json',
                 success: function (data) {
                     s11 = data[0];
                 }
-            });
+            });*/
             $(".div_2").css({top: yy, left: xx});
             $(".div_201").css({top: pp12, left: pp11});
             $(".div_202").css({top: pp22, left: pp21});
@@ -198,13 +200,32 @@
             $(".div_204").css({top: pp42, left: pp41});
             $(".div_2").rotate(rr + 90);
             var n = 60;
-            for (var i = 0; i < n; i++) {
-                var elem = document.getElementById('div_plot').parentNode.children;
-                var div = elem[i+1];
-                var plot_y = s11[i * 2]/1200*200 + 'px';
-                var plot_top = 300 + 200 - s11[i * 2]/1200*200 + 'px';
-                div.style.height = plot_y;
-                div.style.top = plot_top;
+            if (s11 !== undefined && s11 !== null) {
+                for (var i = 0; i < n; i++) {
+                    var elem = document.getElementById('div_plot').parentNode.children;
+                    var div = elem[i+1];
+                    var plot_y = s11[i * 2]/1200*200 + 'px';
+                    var plot_top = 300 + 200 - s11[i * 2]/1200*200 + 'px';
+                    div.style.height = plot_y;
+                    div.style.top = plot_top;
+                };
+            } else {
+                $.ajax({
+                    url: '/json_plot/',
+                    dataType: 'json',
+                    success: function (data) {
+                        s11 = data[0];
+                        for (var i = 0; i < n; i++) {
+                            var elem = document.getElementById('div_plot').parentNode.children;
+                            var div = elem[i+1];
+                            var plot_y = s11[i * 2]/1200*200 + 'px';
+                            var plot_top = 300 + 200 - s11[i * 2]/1200*200 + 'px';
+                            div.style.height = plot_y;
+                            div.style.top = plot_top;
+                        };
+                    }
+                });
+
             };
         };
     }, 100);
